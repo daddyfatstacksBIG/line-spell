@@ -65,4 +65,3 @@ contract LineSpell {
         done = true;
     }
 }
-
